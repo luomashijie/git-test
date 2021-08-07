@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("git test4");
         System.out.println("master test");
         System.out.println("ssh test");
+        System.out.println("pull test");
     }
 }
